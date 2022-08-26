@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on some React Projects .
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Ionic with Angular
 - 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about Frontend web related stuff
 - 📫 How to reach me: linkedin :- sayan-mondal-9145731ba
